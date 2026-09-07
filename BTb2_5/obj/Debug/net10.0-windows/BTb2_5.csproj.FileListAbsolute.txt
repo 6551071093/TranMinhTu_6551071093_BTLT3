@@ -1,0 +1,17 @@
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.frmDinhDang.resources
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.csproj.GenerateResource.cache
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.AssemblyInfoInputs.cache
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.AssemblyInfo.cs
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.csproj.CoreCompileInputs.cache
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.sourcelink.json
+E:\C# VS\BTb2_5\bin\Debug\net10.0-windows\BTb2_5.exe
+E:\C# VS\BTb2_5\bin\Debug\net10.0-windows\BTb2_5.deps.json
+E:\C# VS\BTb2_5\bin\Debug\net10.0-windows\BTb2_5.runtimeconfig.json
+E:\C# VS\BTb2_5\bin\Debug\net10.0-windows\BTb2_5.dll
+E:\C# VS\BTb2_5\bin\Debug\net10.0-windows\BTb2_5.pdb
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.dll
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\refint\BTb2_5.dll
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.pdb
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\BTb2_5.genruntimeconfig.cache
+E:\C# VS\BTb2_5\obj\Debug\net10.0-windows\ref\BTb2_5.dll
